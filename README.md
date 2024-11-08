@@ -1,6 +1,6 @@
 #  Movie App
 
-A **Next.js** web application that allows users to browse and search for movies using **The Movie Database (TMDB)** API. It features responsive design, interactive movie cards, and dynamic routing to enhance the user experience.
+**Next.js** web application that allows users to browse and search for movies using **The Movie Database (TMDB)** API. It features responsive design, interactive movie cards, and dynamic routing to enhance the user experience.
 
 ##  Features
 - **Dynamic Movie Search**: Fetches movie data based on user search queries.
